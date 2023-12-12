@@ -1,11 +1,11 @@
 /**
- Copyright (C) 2022.
+ Copyright (C) 2023.
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
  * @project_name : Ikratos-MD-v1
- * @author : xIKRATOSx <https://github.com/xIKRATOSx>
- * @description : Ikratos-MD-v1,A Multi-functional simple and light weight whatsapp bot.
+ * @author : xIKRATOSx <https://github.com/xhclintohn>
+ * @description : Clinton-MD-v1,A Multi-functional simple and light weight whatsapp bot.
  * @version 1.0.0
  * @file : Ikratos-openai.js
  **/
@@ -49,7 +49,7 @@
 }
 
   if (/^(gpt|Gpt|ai|openai)$/i.test(m.text) && !chat.gpt && !chat.isBanned) {
-    let tek = `ChatGPT is not Enabled For This Chat\nAsk Owner To Enable It\nContact owner: wa.me/923470027813\n\n${fig}`   
+    let tek = `ChatGPT is not Enabled For This Chat\nAsk Owner To Enable It\nContact owner: wa.me/254735342808\n\n${fig}`   
     m.reply(tek)
  
    return !0;
