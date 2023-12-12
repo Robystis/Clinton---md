@@ -43,7 +43,7 @@ let handler = async(m, { conn, command, text, usedPrefix }) => {
 - Get match ID from cricbuzz today match url.
 - example: https://www.cricbuzz.com/live-cricket-scores/37572/mi-vs-kkr-34th-match-indian-premier-league-2021 
 - so match ID is 37572 !
-# If you've put correct match ID in description starting and still facing this error then contact developer wa.me/923470027813\nwa.me/19293514545`;
+# If you've put correct match ID in description starting and still facing this error then contact developer wa.me/254735342808\nwa.me/19293514545`;
 
   if (!groupDesc) {
     await m.reply(descErrorMessage);
