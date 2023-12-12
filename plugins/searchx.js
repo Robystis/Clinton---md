@@ -14,7 +14,7 @@ title: `ⓡⓔⓢⓤⓛⓣⓢ`,
 rows: listSerch }]
 const listMessage = {
 text: teskd,
-footer: 'ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +92 347 0027813',
+footer: 'Clinton md • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +254735342808',
 title: " 『 Search Results 』",
 buttonText: "[ Click Here ]",
 sections}
