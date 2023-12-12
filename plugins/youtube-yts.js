@@ -82,7 +82,7 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
     resultText += `${index + 1}. ${v.title}\n*Duration:* ${v.durationH}\n*Url:* ${v.url}\n____________\n\n`;
   });
 
-  let message = `*───「 Youtube Search 」───*\n\nPlease select the number of the video you want to download by replying to this message with the number listed.\n*Text you requested:* ${text}\n\nɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +92 347 0027813\n\n${resultText}`;
+  let message = `*───「 Youtube Search 」───*\n\nPlease select the number of the video you want to download by replying to this message with the number listed.\n*Text you requested:* ${text}\n\clinton-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +254735342808\n\n${resultText}`;
   conn.reply(m.chat, message, m);
 
   try {
