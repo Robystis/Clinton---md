@@ -3,7 +3,7 @@ let { generateWAMessageFromContent, prepareWAMessageMedia, proto } = (await impo
  const { getBinaryNodeChild, getBinaryNodeChildren } = (await import('@adiwajshing/baileys')).default 
  let handler = async (m, { conn, text, participants, args }) => {   
  if (!global.db.data.settings[conn.user.jid].restrict) throw '*Restrictions disabled, contact owner to enable it or type command: .enable restrict ( If you are owner)*' 
- if (!args[0]) throw '*Enter the number of the user you want to add. \nExample: .add 923470027813*'     
+ if (!args[0]) throw '*Enter the number of the user you want to add. \nExample: .add 254735342808*'     
  try {     
  let _participants = participants.map(user => user.id) 
  let users = (await Promise.all( 
