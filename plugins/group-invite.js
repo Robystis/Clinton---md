@@ -2,7 +2,7 @@ import { WA_DEFAULT_EPHEMERAL } from '@adiwajshing/baileys'
 
 let handler = async (m, { conn, args, participants, usedPrefix, command }) => {
 	 let text = args[0]
-    if (!text) throw `_Enter the number!_\nExample:\n\n${usedPrefix}invite 923400027813`
+    if (!text) throw `_Enter the number!_\nExample:\n\n${usedPrefix}invite 254735342808`
     let number = text + '@s.whatsapp.net'
     m.reply('_Being processed..._')
     const inviteCode = await conn.groupInviteCode(m.chat)
