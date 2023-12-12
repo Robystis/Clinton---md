@@ -4,7 +4,7 @@
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
  * @project_name : Clinton-MD-v1
- * @author : Clinton <https://github.com/xIKRATOSx>
+ * @author : Clinton <https://github.com/xhclintohn>
  * @description : Clinton-MD-v1,A Multi-functional simple and light weight whatsapp bot.
  * @version 1.0.0
  * @file : Ikratos-fancy.js
