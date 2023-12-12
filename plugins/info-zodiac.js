@@ -21,7 +21,7 @@ Age : ${cekusia}
 Zodiac : ${zodiac}
 
 
-ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +92 347 0027813
+clinton-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +254735342808
 `.trim()
     m.reply(teks)
 }
