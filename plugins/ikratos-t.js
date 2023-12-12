@@ -3,7 +3,7 @@ let handler = async (m, { conn, groupMetadata, usedPrefix, text, args, command }
  let capt = `*${htki} Truth ${htka}*
  _Please be honest and answer your Question_
 
- Whatsapp Bot by Ahmad Ali
+ Whatsapp Bot by Clinton 
  *wa.me/254735342808*
 
 
